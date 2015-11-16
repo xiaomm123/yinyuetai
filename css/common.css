@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+/*清除默认样式*/
+h1,h2,h3,h4,h5,h6,p,ul,li,ol,dl,dt,dd,a,i,em,b,strong,img,input,body{ margin:0; padding:0;}
+li{ list-style:none;}
+a{ text-decoration:none; color:#333;}
+i,em{ font-style:normal;}
+b,strong{ font-weight:normal;}
+input{ border:none; background:none; outline:none;}
+textarea{ outline:none; resize:none;}
+img,input,select{ vertical-align:top;}
+/*清除默认样式*/
+
+/*公用部分*/
+.clearFix:after{ content:''; clear:both; display:block;}
+.clearFix{ zoom:1;}
+.fl{ float:left; display:inline;}
+.fr{ float:right; display:inline;}
+body{  font-size:12px;font-family: "Microsoft YaHei"; margin-bottom:1000px; background:#f2f2f2;}
+
+/*公用部分*/
+.wrap1240{ width:1240px; margin:0 auto; overflow:hidden;}
+.wrap1218{ width:1218px; margin:0 auto;}
+.wrap1000{ width:1000px; margin:0 auto;}
+
+.mr5{ margin-right:5px;}
+.mr6{ margin-right:6px;}
+.mr8{ margin-right:8px;}
+.color690{ color:#690;}
+.color666{ color:#666;}
+.color333{ color:#333;}
+.color999{ color:#999;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
